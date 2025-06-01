@@ -1,0 +1,5 @@
+1.Login i register
+2.Dodavanje proizvoda
+3.Izlistavanje proizvoda
+4.Pretraga proizvoda
+Permalink (stranica samog proizvoda)
